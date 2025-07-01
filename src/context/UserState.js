@@ -10,7 +10,7 @@ const UserState = (props) => {
     // Instantly set a fake user object. No API call needed.
     setUser({
         _id: 'fakeUserId123',
-        name: 'Dr. Shorya',
+        name: ' Shorya',
         email: 'shorya@example.com',
         role: 'customer'
     });
